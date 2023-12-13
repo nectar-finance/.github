@@ -10,8 +10,6 @@
 
  <h3>A delta hedged stablecoin built on Frax (sfrxETH+Fraxlend)</h3>
   
-  <a href="https://t.me/nectar_official">
-      Join Our Telegram!
-  </a>
+  <a href="https://t.me/nectar_official">Join Our Telegram!</a>
                                                                  
 </pre>                                                               
