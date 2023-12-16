@@ -4,11 +4,11 @@
 |\   ___  \|\  ___ \ |\   ____\\___   ___\\   __  \|\   __  \    
 \ \  \\ \  \ \   __/|\ \  \___\|___ \  \_\ \  \|\  \ \  \|\  \   
  \ \  \\ \  \ \  \_|/_\ \  \       \ \  \ \ \   __  \ \   _  _\  
-  \ \  \\ \  \ \  \_|\ \ \  \____   \ \  \ \ \  \ \  \ \  \\  \| 
+  \ \  \\ \  \ \  \_|\ \ \  \____   \ \  \ \ \  \ \  \ \  \\  \ 
    \ \__\\ \__\ \_______\ \_______\  \ \__\ \ \__\ \__\ \__\\ _\ 
     \|__| \|__|\|_______|\|_______|   \|__|  \|__|\|__|\|__|\|__|
 
- <h3>A delta hedged stablecoin built on Frax (sfrxETH+Fraxlend)</h3>
+ <h2>A delta hedged stablecoin built on Frax (sfrxETH+Fraxlend)</h2>
   
   <a href="https://t.me/nectar_official">Join Our Telegram!</a>
                                                                  
