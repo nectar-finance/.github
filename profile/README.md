@@ -8,7 +8,7 @@
    \ \__\\ \__\ \_______\ \_______\  \ \__\ \ \__\ \__\ \__\\ _\ 
     \|__| \|__|\|_______|\|_______|   \|__|  \|__|\|__|\|__|\|__|
 
- <h2>A delta hedged stablecoin built on Frax (sfrxETH+Fraxlend)</h2>
+ <h2>A new generation of perpetual products for Defi users.</h2>
   
   <a href="https://t.me/nectar_official">Join Our Telegram!</a>
                                                                  
